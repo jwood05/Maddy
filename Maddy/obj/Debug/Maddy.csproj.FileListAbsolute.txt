@@ -1,0 +1,7 @@
+C:\Users\Jonathan\source\repos\Maddy\Maddy\bin\Debug\Maddy.exe.config
+C:\Users\Jonathan\source\repos\Maddy\Maddy\bin\Debug\Maddy.exe
+C:\Users\Jonathan\source\repos\Maddy\Maddy\bin\Debug\Maddy.pdb
+C:\Users\Jonathan\source\repos\Maddy\Maddy\obj\Debug\Maddy.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\Maddy\Maddy\obj\Debug\Maddy.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Maddy\Maddy\obj\Debug\Maddy.exe
+C:\Users\Jonathan\source\repos\Maddy\Maddy\obj\Debug\Maddy.pdb
